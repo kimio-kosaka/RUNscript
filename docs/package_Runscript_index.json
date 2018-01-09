@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "Runscript",
+      "name": "RUNscript",
       "maintainer": "Kosaka.Lab.",
       "websiteURL": "https://github.com/kimio-kosaka/RUNscript",
       "email": "",
@@ -26,7 +26,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "Runscript",
+              "packager": "RUNscript",
               "name": "scripts",
               "version": "1.0"
             }
