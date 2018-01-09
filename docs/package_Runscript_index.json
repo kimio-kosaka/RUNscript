@@ -19,8 +19,8 @@
           },
           "url": "https://github.com/kimio-kosaka/Runscript/archive/v0.2.0.tar.gz",
           "archiveFileName": "Runscript-0.2.0.tar.gz",
-          "checksum": "SHA-256:",
-          "size": "",
+          "checksum": "SHA-256:fa304be50338b755ba654aab495bca378182aeffeef9f2f2a5aec1f6bb9c0f4d",
+          "size": "2836",
           "boards": [
             {"name": "RUN Setup script"}
           ],
