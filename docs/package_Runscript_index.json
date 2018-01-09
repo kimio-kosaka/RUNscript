@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "RUNscript",
-          "architecture": "Linux",
+          "architecture": "avr",
           "version": "0.2.0",
           "category": "Contributed",
           "help": {
