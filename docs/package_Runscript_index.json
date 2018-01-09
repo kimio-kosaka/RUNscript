@@ -11,7 +11,7 @@
       "platforms": [
         {
           "name": "RUNscript",
-          "architecture": "avr",
+          "architecture": "Linux",
           "version": "0.2.0",
           "category": "Contributed",
           "help": {
@@ -22,7 +22,7 @@
           "checksum": "SHA-256:fa304be50338b755ba654aab495bca378182aeffeef9f2f2a5aec1f6bb9c0f4d",
           "size": "2836",
           "boards": [
-            {"name": "RUN Setup script"}
+            {"name": "RUNscript"}
           ],
           "toolsDependencies": [
             {
