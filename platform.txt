@@ -87,7 +87,7 @@ recipe.size.regex.eeprom=
 # ------------------------------
 
 #modified kimio kosaka for RUNscript
-tools.avrdude.path={runtime.tools.scripts.path}/scripts
+tools.avrdude.path={runtime.tools.scripts.path}
 tools.avrdude.cmd.path={path}/RUNscript.sh
 
 tools.avrdude.config.path={path}/etc/avrdude.conf
