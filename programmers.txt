@@ -1,4 +1,0 @@
-raspi.name=Setup GPIO AVRDUDE
-raspi.protocol=gpioavrdude
-raspi.program.protocol=gpioavrdude
-raspi.program.tool=setup_GPIOavrdude.sh
