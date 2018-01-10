@@ -17,8 +17,8 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/kimio-kosaka/Runscript/archive/v1.0.1.tar.gz",
-          "archiveFileName": "Runscript-1.0.1.tar.gz",
+          "url": "https://github.com/kimio-kosaka/RUNscript/archive/v1.0.1.tar.gz",
+          "archiveFileName": "RUNscript-1.0.1.tar.gz",
           "checksum": "SHA-256:da2f911feaf1ca30c01dad667173608fb78f7230d42a132c50e55412a9b83668",
           "size": "2979",
           "boards": [
@@ -40,7 +40,7 @@
           "systems": [
             {
               "host": "arm-linux-gnueabihf",
-              "url": "https://github.com/kimio-kosaka/Runscript/releases/download/v1.0.1/scripts-1.1.tar.gz",
+              "url": "https://github.com/kimio-kosaka/RUNscript/releases/download/v1.0.1/scripts-1.1.tar.gz",
               "archiveFileName": "scripts-1.1.tar.gz",
               "checksum": "SHA-256:d932fbed949b272decf9359bf3d2fb0e7d1b4951ba27aeabb137c60028b18f05",
               "size": "297"
