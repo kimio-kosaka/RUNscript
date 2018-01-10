@@ -1,7 +1,7 @@
 # RUNscript
 shell script launcher for Arduino IDE 
 
-json Url for board manager of Arduino IDE<br />
+json URL for board manager of Arduino IDE<br />
 https://kimio-kosaka.github.io/RUNscript/package_Runscript_index.json
 
 Virtual-Board <br />
