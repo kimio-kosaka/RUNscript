@@ -44,6 +44,27 @@
               "archiveFileName": "scripts-1.1.tar.gz",
               "checksum": "SHA-256:d932fbed949b272decf9359bf3d2fb0e7d1b4951ba27aeabb137c60028b18f05",
               "size": "297"
+            },
+            {
+              "host": "x86_64-apple-darwin",
+              "url": "https://github.com/kimio-kosaka/RUNscript/releases/download/v1.0.1/scripts-1.1.tar.gz",
+              "archiveFileName": "scripts-1.1.tar.gz",
+              "checksum": "SHA-256:d932fbed949b272decf9359bf3d2fb0e7d1b4951ba27aeabb137c60028b18f05",
+              "size": "297"
+            },
+            {
+              "host": "ax86_64-pc-linux-gnu",
+              "url": "https://github.com/kimio-kosaka/RUNscript/releases/download/v1.0.1/scripts-1.1.tar.gz",
+              "archiveFileName": "scripts-1.1.tar.gz",
+              "checksum": "SHA-256:d932fbed949b272decf9359bf3d2fb0e7d1b4951ba27aeabb137c60028b18f05",
+              "size": "297"
+            },
+            {
+              "host": "i686-pc-linux-gnu",
+              "url": "https://github.com/kimio-kosaka/RUNscript/releases/download/v1.0.1/scripts-1.1.tar.gz",
+              "archiveFileName": "scripts-1.1.tar.gz",
+              "checksum": "SHA-256:d932fbed949b272decf9359bf3d2fb0e7d1b4951ba27aeabb137c60028b18f05",
+              "size": "297"
             }
           ]
         }
