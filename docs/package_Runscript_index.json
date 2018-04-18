@@ -31,6 +31,29 @@
               "version": "1.1"
             }
           ]
+        },
+        {
+          "name": "RUNscript",
+          "architecture": "avr",
+          "version": "1.0.1",
+          "category": "Contributed",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/kimio-kosaka/RUNscript/archive/v1.0.2.tar.gz",
+          "archiveFileName": "RUNscript-1.0.2.tar.gz",
+          "checksum": "SHA-256:85b194972849628b227c26fc8582a8c4a5adfcc8aa7ac258e57d9d0d2956b9f5",
+          "size": "3334",
+          "boards": [
+            {"name": "RUNscript"}
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "RUNscript",
+              "name": "scripts",
+              "version": "1.1"
+            }
+          ]
         }
       ],
       "tools": [
