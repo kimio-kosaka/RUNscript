@@ -35,7 +35,7 @@
         {
           "name": "RUNscript",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "category": "Contributed",
           "help": {
             "online": ""
